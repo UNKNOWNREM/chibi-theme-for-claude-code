@@ -1,0 +1,8 @@
+{
+  "name": "chibi-theme-for-claude-code",
+  "version": "0.1.0",
+  "description": "Claude Code 桌面版：右下角的 Q 版小人，依 待機／思考／工作／開心／出錯／休息 自動換圖。A chibi companion for the Claude Code desktop app that reacts to what Claude is doing.",
+  "author": {
+    "name": "UNKNOWNREM"
+  }
+}

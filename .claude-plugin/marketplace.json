@@ -1,0 +1,13 @@
+{
+  "name": "chibi-theme-for-claude-code",
+  "owner": {
+    "name": "UNKNOWNREM"
+  },
+  "plugins": [
+    {
+      "name": "chibi-theme-for-claude-code",
+      "source": "./"
+    }
+  ],
+  "description": "A chibi companion for the Claude Code desktop app that reacts to what Claude is doing."
+}
